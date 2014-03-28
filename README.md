@@ -1,7 +1,7 @@
 svm-sh-eg
 =========
 
-this are sh samples
+these are sh samples
 
 
 
